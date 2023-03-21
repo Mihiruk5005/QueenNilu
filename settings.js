@@ -22,7 +22,7 @@ global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK =  'on'
 //👇 Auto react 
-global.AUTO_REACT =  'true'
+global.AUTO_REACT =  'false'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
